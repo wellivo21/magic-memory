@@ -1,0 +1,21 @@
+.credits {
+    color: #ffffff56;
+}
+
+.credits-link:link,
+.credits-link:visited {
+    color: #fff;
+    text-decoration: none;
+}
+
+.credits-link:hover,
+.credits-link:active {
+    color: #c23866;
+}
+
+.credits-link:link,
+.credits-link:visited,
+.credits-link:hover,
+.credits-link:active {
+    transition: all 0.25s;
+}
