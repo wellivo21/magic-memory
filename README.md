@@ -2,6 +2,10 @@
 
 This application was made with the guidance of Net Ninja's React course "Build Web Apps with React. You can check the course by clicking [HERE](https://www.udemy.com/course/build-web-apps-with-react-firebase/)
 
+# Netlify hosted link
+
+You can check the current version of this application [here](https://magic-memory-ivo.netlify.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
