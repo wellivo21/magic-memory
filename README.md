@@ -1,6 +1,6 @@
 # Disclaimer
 
-This application was made with the guidance of Net Ninja's React course "Build Web Apps with React. You can check the course by clicking the following link (https://www.udemy.com/course/build-web-apps-with-react-firebase/)
+This application was made with the guidance of Net Ninja's React course "Build Web Apps with React. You can check the course by clicking [HERE](https://www.udemy.com/course/build-web-apps-with-react-firebase/)
 
 # Getting Started with Create React App
 
